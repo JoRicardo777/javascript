@@ -20,7 +20,7 @@
         alert("Por favor, insira valores numéricos válidos.");
     } else {
         const soma = num1 + num2;
-        alert(`A soma de ${num1} e ${num2} é: ${soma}`);
+        alert(`A soma de ${num1} e ${num2} é: ${soma}`); 
     }
 
         
