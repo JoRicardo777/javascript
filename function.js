@@ -1,8 +1,8 @@
-function imprimirNome (nome, sobrenome) {
-    return(nome + sobrenome);
-}
+var numeroA = 1;
+var numeroB = 4;
+var numeroC = 7;
 
-let resultadoimprimirNome ('Johan Ricardo','Malagon Leal') {
-    }
-
-    nome();
+var resultadoSoma = prompt(numeroA + numeroB);
+var resultadoSubstracao = prompt(numeroA - numeroC);
+var resultadoProduto = prompt(numeroA * numeroB);
+var resultadoDivisao = prompt(numeroA / numeroC);
