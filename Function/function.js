@@ -36,8 +36,8 @@ processarNotas();
 //Porcentagem do ICMS de são paulo. neste caso de 18%
 function capturarValores() {
     let valor1 = parseFloat(prompt("Indique um primer valor de produto: "));
-    let valor2 = parseFloat(prompt("Indique um primer valor de produto: "));
-    let valor3 = parseFloat(prompt("Indique um primer valor de produto: "));
+    let valor2 = parseFloat(prompt("Indique um segundo valor de produto: "));
+    let valor3 = parseFloat(prompt("Indique um tercer valor de produto: "));
     return [valor1, valor2, valor3];
 }
 
